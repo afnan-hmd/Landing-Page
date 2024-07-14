@@ -142,9 +142,18 @@ button {
 .s3-button {
     border-style: solid;
     border-width: 2px;
-    padding: 2px 26px;
+    padding: 0px 26px;
 }
 .s3-sec-text {
     font-size: 18px;
-    color: #d6d7d8;
+    color: #E5E7EB;
+}
+
+
+/* footer css */
+.footer {
+    background-color: #1F2937;
+    color: white;
+    text-align: center;
+    padding: 46px 0px 46px;
 }
