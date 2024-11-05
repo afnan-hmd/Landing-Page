@@ -1,2 +1,2 @@
 # Landing-Page
-odin project exercise
+odin project exercise (live demo: https://afnan-hmd.github.io/Landing-Page/)
